@@ -1,2 +1,2 @@
 # vue-iview-ui
-前端流行技术搭建的ui框架
+基于vue+iview搭建的前端框架
